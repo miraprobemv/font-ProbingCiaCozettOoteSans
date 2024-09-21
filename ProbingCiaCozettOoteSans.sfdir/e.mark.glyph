@@ -1,0 +1,26 @@
+StartChar: e.mark
+Encoding: 65615 -1 156
+Width: 0
+Flags: W
+HStem: 446 21G<-70.1875 0 76.0604 140> 446 21G<-70.1875 0 76.0604 140> 559 60<-278 -175.368>
+AnchorPoint: "above" 0 446 mark 0
+LayerCount: 2
+Fore
+SplineSet
+97 446 m 5xa0
+ -59 595 l 5
+ -59 614 l 5
+ 27 614 l 5
+ 140 446 l 5
+ 97 446 l 5xa0
+-43 446 m 5
+ -130 510 l 6
+ -187 552 -232 559 -278 559 c 5
+ -278 619 l 5
+ -268 619 l 5
+ -178 619 -128 581 -77 531 c 6
+ 0 456 l 5
+ 0 446 l 5
+ -43 446 l 5
+EndSplineSet
+EndChar

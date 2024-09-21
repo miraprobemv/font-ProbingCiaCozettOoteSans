@@ -1,0 +1,39 @@
+StartChar: u
+Encoding: 117 117 0
+Width: 690
+Flags: W
+HStem: -98 61<219.777 299.909> 60 60<220.091 300.223> 173 60<154.931 370.617> 365 20G<67.5 137 446.5 528> 365 20G<67.5 137 446.5 528>
+VStem: 65 66<256.94 385> 151 61<-29.2226 51.5753> 308 61<-29.0753 51.7226> 462 66<328.269 385>
+AnchorPoint: "below" 275 -116 basechar 0
+AnchorPoint: "above" 125 446 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+212 11 m 0xe780
+ 212 -16 233 -37 260 -37 c 0
+ 287 -37 308 -15 308 12 c 0
+ 308 39 287 60 260 60 c 0
+ 233 60 212 38 212 11 c 0xe780
+151 11 m 0
+ 151 71 200 120 260 120 c 0
+ 320 120 369 71 369 11 c 0
+ 369 -49 320 -98 260 -98 c 0
+ 200 -98 151 -49 151 11 c 0
+65 306 m 3
+ 65 332 66 347 69 385 c 1
+ 137 385 l 1
+ 137 375 l 1
+ 133 350 131 333 131 311 c 3
+ 131 259 163.9921875 233 252 233 c 3
+ 370 233 431 270 462 385 c 1
+ 528 385 l 1xf780
+ 528 375 l 1
+ 492 231 408 173 250 173 c 3
+ 123 173 65 216 65 306 c 3
+EndSplineSet
+Substitution2: "aslong-1" longvowel
+Substitution2: "asmark-1" u.mark
+Substitution2: "fina-1" u.fina
+Substitution2: "medi-1" u.medi
+Substitution2: "init-1" u.init
+EndChar
